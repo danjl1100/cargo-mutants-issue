@@ -2,7 +2,7 @@ pub mod toplevel;
 
 #[cfg(test)]
 mod tests {
-    use super::toplevel::*;
+    use super::toplevel::nested::*;
 
     #[test]
     fn it_works() {
