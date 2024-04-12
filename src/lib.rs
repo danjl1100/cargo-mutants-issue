@@ -1,4 +1,6 @@
-pub mod toplevel;
+pub mod toplevel {
+    pub mod nested;
+}
 
 #[cfg(test)]
 mod tests {
