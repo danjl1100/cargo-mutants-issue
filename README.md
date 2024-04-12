@@ -1,4 +1,4 @@
-Example test case for [cargo-mutant](https://github.com/sourcefrog/cargo-mutants)
+Example test case for [cargo-mutant](https://github.com/sourcefrog/cargo-mutants) [issue #327](https://github.com/sourcefrog/cargo-mutants/issues/327)
 
 ## Desired behavior
 
